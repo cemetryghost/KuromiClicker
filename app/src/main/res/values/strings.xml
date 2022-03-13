@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KuromiClicker</string>
+    <string name="txt_hearts">cердечек</string>
+    <string name="btn_hearts">Подарить сердечко Kuromi ❤</string>
+</resources>
